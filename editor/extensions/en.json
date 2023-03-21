@@ -34,7 +34,7 @@
     "arduinoEsp32.pins.setPinMode": "set pin [PIN] mode [MODE]",
     "arduinoEsp32.pins.setServoOutput": "set servo pin [PIN] use channel [CH] out [OUT]",
     "arduinoEsp32.serial.multiSerialAvailable": "serial [NO] available data length",
-    "arduinoEsp32.serial.multiSerialBegin": "serial [NO] begin baudrate [VALUE]",
+    "arduinoEsp32.serial.esp32SerialBegin": "serial [NO] begin baudrate [VALUE]",
     "arduinoEsp32.serial.multiSerialPrint": "serial [NO] print [VALUE] [EOL]",
     "arduinoEsp32.serial.multiSerialReadAByte": "serial [NO] read a byte",
     "arduinoEsp8266.InterrupModeMenu.changeEdge": "change edge",
