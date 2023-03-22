@@ -39,7 +39,7 @@
     "arduinoEsp32.serial.multiSerialPrint": "串口 [NO] 打印 [VALUE] [EOL]",
     "arduinoEsp32.serial.multiSerialReadAByte": "串口 [NO] 读取1个字节",
     "arduinoEsp32.robot.steeringGearConfig": "设置关节 [JOINT] 角度为 [ANGLE] 速度为 [SPEED]",
-    "arduinoEsp32.robot.setServoPosAll": "设置全关节，关节1 [ANGLE1] 关节2 [ANGLE2] 关节3 [ANGLE3] 关节4 [ANGLE4] 关节5 [ANGLE5] 关节6 [ANGLE6] 角度为 [ANGLE] 速度为[SPEED]",
+    "arduinoEsp32.robot.setServoPosAll": "设置全关节，关节1 [ANGLE1] 关节2 [ANGLE2] 关节3 [ANGLE3] 关节4 [ANGLE4] 关节5 [ANGLE5] 关节6 [ANGLE6] 速度为[SPEED]",
     "arduinoEsp32.robot.setGripper": "设置夹爪值为 [ANGLE] 速度为 [SPEED]",
     "arduinoEsp8266.InterrupModeMenu.changeEdge": "电平改变",
     "arduinoEsp8266.InterrupModeMenu.fallingEdge": "下降沿",
