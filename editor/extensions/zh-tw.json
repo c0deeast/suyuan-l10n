@@ -35,7 +35,7 @@
     "arduinoEsp32.pins.setPinMode": "設置腳位 [PIN] 模式 [MODE]",
     "arduinoEsp32.pins.setServoOutput": "設置舵機腳位 [PIN] 使用通道 [CH] 輸出 [OUT]",
     "arduinoEsp32.serial.multiSerialAvailable": "串口 [NO] 可讀取字節數",
-    "arduinoEsp32.serial.multiSerialBegin": "串口 [NO] 啟動鮑率 [VALUE]",
+    "arduinoEsp32.serial.esp32SerialBegin": "串口 [NO] 啟動鮑率 [VALUE]",
     "arduinoEsp32.serial.multiSerialPrint": "串口 [NO] 列印 [VALUE] [EOL]",
     "arduinoEsp32.serial.multiSerialReadAByte": "串口 [NO] 讀取1個字節",
     "arduinoEsp32.robot.steeringGearConfig": "設置關節 [JOINT] 角度為 [ANGLE] 速度為 [SPEED]",
