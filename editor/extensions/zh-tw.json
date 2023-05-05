@@ -43,7 +43,7 @@
     "arduinoEsp32.robot.setGripper": "設置夾爪值為 [ANGLE] 速度為 [SPEED]",
     "arduinoEsp32.robot.setGripperStatus": "設置夾爪狀態為 [STATUS] 速度為 [SPEED]",
     "arduinoEsp32.robot.setGripperStatusDefault": "設置夾爪狀態為 [STATUS]",
-    "arduinoEsp32.robot.setAllCoordinates": "設置坐標X [X] Y [Y] Z [Z] RX [RX] RY [RY] RZ [RZ] X [X] 速度 [SPEED] 模式[MODE]",
+    "arduinoEsp32.robot.setAllCoordinates": "設置坐標X [X] Y [Y] Z [Z] RX [RX] RY [RY] RZ [RZ] 速度 [SPEED] 模式[MODE]",
     "arduinoEsp32.robot.getAllAngle": "獲取所有角度",
     "arduinoEsp32.robot.getAllCoordinates": "獲取所有坐標",
     "arduinoEsp8266.InterrupModeMenu.changeEdge": "電位改變",
